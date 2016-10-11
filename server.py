@@ -16,4 +16,4 @@ def index():
 	print friends
 	return render_template('index.html', all_friends=friends)
 
-//hey yay im here
+//hey yay im here, not!
