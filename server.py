@@ -15,3 +15,5 @@ def index():
 	emails = mysql.query_db(query)
 	print friends
 	return render_template('index.html', all_friends=friends)
+
+//hey yay im here
